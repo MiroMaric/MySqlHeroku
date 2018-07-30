@@ -1,0 +1,26 @@
+{
+  "name": "mysqlheroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "engines": {
+    "node": "8.9.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiroMaric/MySqlHeroku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiroMaric/MySqlHeroku/issues"
+  },
+  "homepage": "https://github.com/MiroMaric/MySqlHeroku#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
